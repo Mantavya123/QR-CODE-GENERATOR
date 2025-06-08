@@ -16,5 +16,3 @@ Technologies Used:
 Node.js
 <br/>
 Inquirer
-
-QR code generation npm package (e.g., qrcode)
